@@ -100,7 +100,7 @@
 - `geolocation`을 활용하여 내 주변의 중고도서를 확인 가능하다.
 - `daumpostcode`를 활용하여 내 주변에 위치한 중고도서들만이 렌더링 된다.
 <div align="center">
-<img width = 600, src="">
+<!-- <img width = 600, src=""> -->
 </div><br/><br/><br/><br/><br/><br/>
 
 > **카카오 로그인 API를** 활용하여 로그인이 가능하다.
